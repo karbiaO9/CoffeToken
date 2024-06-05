@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SampleSelfdestruct.sol": "StartStop"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SampleSelfdestruct.sol": {
+			"keccak256": "0x2de12a6f4fda06a25c9d91817042a99475f05a0b2d08fdc2cf29863451f605b3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://657a66c8865246e5bc0394a5194917408a4f6f3589a82107c407dbd752b237d5",
+				"dweb:/ipfs/Qmcwg7XDyVa6wfodwr3v4NJbkCbsJQrD9qw7zqZYLNkZa9"
+			]
+		}
+	},
+	"version": 1
+}
